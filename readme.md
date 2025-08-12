@@ -72,7 +72,7 @@ El diferencial de este repositorio reside en su excelente documentación y facil
 
 ### 👋 Equipo 6 ✨
 
-- [Lizeth Leoneth Ordoñez Trujillo](https://github.com/MoniZuluagaP/EntregaFinal-TrailerFlix)
+- [Lizeth Leoneth Ordoñez Trujillo](https://github.com/Liizeth/trailerflix.git)
 
 El diferencial del repositorio de Lizeth es notable por ser un trabajo individual impecable. Pese a trabajar sola, su proyecto funciona a la perfección, es sumamente comprensible gracias a un código bien estructurado, y demuestra una dedicación excepcional tanto en la implementación como en la presentación.
 
